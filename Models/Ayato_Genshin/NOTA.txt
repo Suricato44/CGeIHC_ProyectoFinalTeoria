@@ -1,0 +1,1 @@
+El modelo quedó trasladado 7 unidades en el eje X para el código (1.3469 m para Blender), es decir, su origen es (-7.0f, 0.0f, 0.0f) en el código.

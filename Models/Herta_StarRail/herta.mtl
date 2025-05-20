@@ -1,0 +1,534 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 20.04.2025 21:25:14
+
+newmtl 1
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 2
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 3
+	Ns 584.9656
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/extra.tga
+	map_Kd /Herta_StarRail/extra.tga
+
+newmtl 4
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 5
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 6
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 7
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 8
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 9
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cara.png
+	map_Kd /Herta_StarRail/cara.png
+
+newmtl 10
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 11
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 12
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/cabello.png
+	map_Kd /Herta_StarRail/cabello.png
+
+newmtl 13
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 14
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 15
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 16
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa2.png
+	map_Kd /Herta_StarRail/ropa2.png
+
+newmtl 17
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 18
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 19
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa2.png
+	map_Kd /Herta_StarRail/ropa2.png
+
+newmtl 20
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 21
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 22
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 23
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 24
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 25
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 26
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 27
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 28
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 29
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 30
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 31
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 32
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 33
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 34
+	Ns 584.9656
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4849 0.4849 0.4849
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/ropa.png
+	map_Kd /Herta_StarRail/ropa.png
+
+newmtl 35
+	Ns 201.3396
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1149 0.1149 0.1149
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/bq.png
+	map_Kd /Herta_StarRail/bq.png
+
+newmtl Material__25
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/Material__25_albedo.jpg
+	map_Kd /Herta_StarRail/Material__25_albedo.jpg
+
+newmtl 09___Default_001
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/Meat.png
+	map_Kd /Herta_StarRail/Meat.png
+
+newmtl 23___Default_001
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /Herta_StarRail/Tortilla_Taco.png
+	map_Kd /Herta_StarRail/Tortilla_Taco.png

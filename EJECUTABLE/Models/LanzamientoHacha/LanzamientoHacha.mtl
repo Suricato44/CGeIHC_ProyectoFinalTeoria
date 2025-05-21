@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 20.04.2025 22:57:16
+
+newmtl Targets
+	Ns 250.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /LanzamientoHacha/Targets_ALB.png
+	map_Kd /LanzamientoHacha/Targets_ALB.png
+
+newmtl Grande
+	Ns 250.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /LanzamientoHacha/grade1.png
+	map_Kd /LanzamientoHacha/grade1.png
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /LanzamientoHacha/warning-ribbon.png
+	map_Kd /LanzamientoHacha/warning-ribbon.png
